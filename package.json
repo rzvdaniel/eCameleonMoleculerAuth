@@ -22,7 +22,7 @@
     "moleculer-repl": "^0.5.7"
   },
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "cookie": "^0.4.0",
     "crypto": "^1.0.1",
     "dotenv": "^8.0.0",
